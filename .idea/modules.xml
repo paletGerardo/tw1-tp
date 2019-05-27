@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/tw1-tp.iml" filepath="$PROJECT_DIR$/.idea/tw1-tp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proyecto-limpio-spring.iml" filepath="$PROJECT_DIR$/proyecto-limpio-spring.iml" />
     </modules>
   </component>
 </project>
